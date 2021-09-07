@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Gherkin + Cucumber (Java)
 - 💞️ I’m looking to collaborate on Quality Assurance Initiatives
 - 📫 How to reach me: vbinsfeld@gmail.com 
-- 🔬 LeetCode Profile: https://leetcode.com/vbinsfeld/ 
+- 👔 LinkedIn: https://www.linkedin.com/in/vítor-binsfeld/
+- 🔬 LeetCode: https://leetcode.com/vbinsfeld/ 
+
 
 <!---
 vbinsfeld/vbinsfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
